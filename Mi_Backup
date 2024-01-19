@@ -1,0 +1,25 @@
+Para completar el ejercicio 2 de Ciberseguridad, cree una carpeta con el 
+comando mkdir. Luego, cree un archivo que inclui en esa carpeta para 
+anclar a mi repositorio de Github. Una vez clonado el repositorio y 
+organizado las carpetas, instale mi disco duro extraible para clonar 
+las carpetas con el comando rsync -av --delete a la ruta /mnt/respaldo.
+
+Al verificar el contenido de la ruta de destino, pude constatar que la 
+misma, no correspondia con la del disco duro extraible, por lo que confir-
+me, que habia hecho el respaldo dentro del mismo Linux. 
+
+Procedi a realizar verificacion de la conexion del disco duro extraible, 
+una vez verificado que se habia conectado correctamente, verifique la ruta
+para este dispositivo y la inclui como ruta de destino. Finalmente 
+recibi confirmacion del backup, realice verificacion del contenido 
+del dico extraible y corrobore que habia completado con exito el backup
+desde Linux a la ruta de destino deseada fuera del servidor de origen. 
+
+Ver PDF en Discord con las capturas de pantalla del procedimiento 
+completo.  
+
+PD> Perdona las graves faltas de ortografia. El teclado me quedo en 
+ingles en Linux. 
+
+ 
+
